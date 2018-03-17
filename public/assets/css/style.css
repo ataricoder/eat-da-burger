@@ -1,0 +1,76 @@
+.page-title {
+  text-align: center;
+  font-family: 'Avenir';
+  color: #f50057;
+  font-size: 24px;
+}
+
+h1 {
+  font-size: 500%;
+}
+
+h2 {
+  font-family: 'Avenir', sans-serif;
+  color: #f50057;
+}
+
+h3 {
+  font-family: 'Avenir';
+  color: #fff;
+  text-decoration: underline;
+}
+
+.add-burger {
+  float: center;
+  text-align: center;
+  padding: 20px;
+  width: 50%;
+  margin: auto;
+}
+
+#enter_text {
+  height: 40px;
+}
+
+#text-enter-button {
+  margin: 20px;
+  font-family: 'Avenir';
+}
+
+.secondary-content {
+  width: 80%;
+  margin: auto;
+  padding-bottom: 500px;
+}
+
+ul {
+  list-style-type: none;
+  padding-left: 0px;
+}
+
+.delicious-burgers {
+  float: left;
+  font-family: 'Avenir', sans-serif;
+  font-size: 20px;
+  width: 50%;
+  margin: auto;
+  margin-left: 0px;
+  text-align: center;
+  color: gray;
+}
+
+.devoured-burgers {
+  float: left;
+  font-family: 'Avenir', sans-serif;
+  font-size: 20px;
+  width: 50%;
+  margin: auto;
+  margin-left: 0px;
+  text-align: center;
+  line-height: 300%;
+  color: gray;
+}
+
+.main-content {
+  background-color: #000000;
+}
